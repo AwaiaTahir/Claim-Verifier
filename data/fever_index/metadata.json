@@ -1,0 +1,6 @@
+{
+  "num_documents": 23478,
+  "num_chunks": 50000,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "build_date": "2026-06-10T20:52:44.628148+00:00"
+}
